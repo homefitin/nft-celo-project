@@ -11,3 +11,5 @@ GAS_REPORT=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+demo link https://celo-nft-marketplace-fh79e6i7r-nilsgiebing.vercel.app/
